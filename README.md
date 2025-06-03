@@ -10,7 +10,7 @@ This project presents a comprehensive analysis of Uber ride data using Power BI.
 - Most frequent pickup/drop-off locations
 - Longest trips and distance metrics
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](https://github.com/Bharath-v-projects/Uber-Data-Analysis/blob/main/uber%20analysis%20.jpg)
 
 ## 📁 Files Included
 - `images/dashboard.png` – Screenshot of the dashboard
