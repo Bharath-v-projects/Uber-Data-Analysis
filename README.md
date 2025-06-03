@@ -1,2 +1,35 @@
-# Uber-Data-Analysis
-The dashboard provides a comprehensive summary of Uber bookings for the month of June 2024. It gives insights into booking trends, vehicle usage, trip patterns, payment types, and location-based behaviors to support decision-making and operations.
+# Uber Trip Analysis – Power BI Project
+
+This project presents a comprehensive analysis of Uber ride data using Power BI. It provides insights into booking trends, revenue, trip distances, time analysis, and location behavior.
+
+## 📊 Dashboard Features
+
+- Total bookings, revenue, and average trip details
+- Booking distribution by payment method and time of day
+- Vehicle type performance comparison
+- Most frequent pickup/drop-off locations
+- Longest trips and distance metrics
+
+![Dashboard Screenshot](images/dashboard.png)
+
+## 📁 Files Included
+- `images/dashboard.png` – Screenshot of the dashboard
+- `data/sample_data.csv` – Sample dataset (if available)
+
+## 🛠 Tools Used
+
+- Power BI
+- DAX
+- Data modeling and visualization
+
+## 📌 Key Insights
+
+- Majority of trips are short (avg 3 miles) and take 16 minutes
+- UberX is the most preferred vehicle
+- Peak activity is during daytime
+- Digital payment dominates (Uber Pay – 67%)
+
+## 📬 Contact
+
+For queries or suggestions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bharathv231003/).
+
