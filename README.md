@@ -14,7 +14,7 @@ This project presents a comprehensive analysis of Uber ride data using Power BI.
 
 ## 📁 Files Included
 - [Screenshot of the dashboard](https://github.com/Bharath-v-projects/Uber-Data-Analysis/blob/main/uber%20analysis%20.jpg)
-- [Sample dataset]()
+- [Sample dataset](https://github.com/Bharath-v-projects/Uber-Data-Analysis/blob/main/Location%20Table.xlsx)
 
 ## 🛠 Tools Used
 
